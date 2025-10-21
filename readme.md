@@ -1,2 +1,2 @@
 # traits-test
-Test of Traits in Rust
+small test of the traits system in rust
